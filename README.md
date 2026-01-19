@@ -49,7 +49,7 @@ Durante o desenvolvimento do dashboard, foram aplicadas as seguintes etapas:
 ## 📜 Certificado do curso
 - Certificado de conclusão do curso **“Power BI Desktop: construindo meu primeiro dashboard” – Alura**.
 
-🔗 [Ver certificado](https://cursos.alura.com.br/certificate/frpennachin/power-bi-desktop-construindo-meu-primeiro-dashboard)  
+🔗 [Ver certificado](https://cursos.alura.com.br/certificate/92417e74-5aee-48f6-a8a4-b79317310dfa)  
 <br>
 
 

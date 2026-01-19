@@ -16,6 +16,7 @@ O objetivo do projeto foi aplicar os conhecimentos adquiridos ao longo do curso,
 ##### Você pode acessar o dashboard interativo diretamente neste [link](https://app.powerbi.com/view?r=eyJrIjoiNzk2N2I5M2QtMTBmOC00OWMxLTg1ODEtZDc0NDBjZWM4YTM2IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9).
 
 > *Nota*: Para visualizar o dashboard, é necessário ter uma conta na plataforma Power BI Service.
+> Caso não tenha, anexei uma imagem (GATITO.jpg) para visualização do Dashboard criado. 
 <br>
 
 #### 🛠️ Tecnologias Utilizadas: 
